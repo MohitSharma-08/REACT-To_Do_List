@@ -89,11 +89,13 @@ const Login = () => {
           </button>
         </div>
 
+{/*     Facebook login wala part
         <div className="mt-4 flex justify-center">
           <button className="w-full flex justify-center py-2 px-4 border border-gray-300 rounded-md shadow-sm text-sm font-medium text-white bg-blue-700 hover:bg-blue-800 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-700">
             Sign in with Facebook
           </button>
-        </div>
+          </div>
+*/}          
       </div>
     </div>
   );
